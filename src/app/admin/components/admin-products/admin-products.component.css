@@ -1,0 +1,10 @@
+.table{
+    margin-bottom:80px;
+}
+
+@media (max-width: 576px) { 
+    .container-fluid{
+        padding:0;
+    }
+ }
+

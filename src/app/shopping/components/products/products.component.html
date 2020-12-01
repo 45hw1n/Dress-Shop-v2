@@ -1,0 +1,55 @@
+<div class="row">
+  <div class="col-lg-4 col-xl-2 col-sm-2">
+    <div class="vertical-nav bg-white" id="sidebar">
+      <div class="py-4 px-3 mb-4 bg-light">
+        <div class="media d-flex align-items-center ml-3 mt-2">
+          <div class="media-body">
+            
+              <button id="sidebarCollapse" type="button" class=" menu-btn btn btn-light bg-white rounded-pill shadow-sm px-4 mb-4">
+                <i class="fa fa-bars mr-2"></i><small class="text-uppercase font-weight-bold">Menu</small>
+              </button>
+            
+            <h5 class="text-muted">Welcome</h5>
+            <h5 class="m-0 " *ngIf="appUser; else anonymousUser">{{ appUser.name }}</h5>
+            <ng-template #anonymousUser>
+              <div class="nav-item">
+                <h5 class="m-0">Login To Continue</h5>
+                <!-- <a class="nav-link" button class="btn btn-primary mt-3" (click)="login()">Login</a> -->
+              </div>
+            </ng-template>
+
+            
+            
+          </div>
+        </div>
+      </div>
+    
+      <p class="text-gray font-weight-bold text-uppercase px-3 small pb-4 mb-0">Shop By Category</p>
+    
+      <ul class="nav flex-column bg-white mb-0 ml-3">
+        <li>
+          <app-product-filter></app-product-filter>
+        </li>
+        
+      </ul>
+    
+      <p class="text-gray font-weight-bold text-uppercase px-3 small py-4 mb-0">Shop By Size</p>
+    
+      <ul class="nav flex-column bg-white mb-0 ml-3">
+        <li class="nav-item">          
+          <app-size-filter></app-size-filter>                 
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+  <div class="container mt-5">
+      <div class="row" *ngIf="cart$ | async as cart">
+        <ng-container *ngFor="let p of filteredProducts; let i = index">
+          <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6">
+            <app-items [product]="p" [shopping-cart]="cart"></app-items>
+          </div>
+        </ng-container>
+      </div>
+  </div>
+</div>

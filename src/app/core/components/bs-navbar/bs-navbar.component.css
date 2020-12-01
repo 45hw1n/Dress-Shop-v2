@@ -1,0 +1,20 @@
+@media only screen and (max-width: 1024px) {
+    .navbar-brand {
+      font-size:14px;
+      margin-right:10px;
+    }
+    .nav-item{
+        font-size:12px;
+    }
+    .btn{
+        font-size: 12px;
+    }
+    .dropdown-menu {
+        min-width: 10px !important;
+        margin-right:10px;
+        font-size:12.5px;
+    }
+    .dropdown-item{
+        padding:4px 15px 4px 15px;
+    }
+  }

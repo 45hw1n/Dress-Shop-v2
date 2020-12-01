@@ -1,0 +1,46 @@
+.thumbnail {
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-size: cover;
+}
+.card {
+    margin-bottom: 80px;
+    }
+
+        @media only screen and (max-width: 426px) {
+            .thumbnail {
+            width: 60px;
+            height: 60px;
+            border-radius: 100%;
+            background-size: cover;
+            }
+            .table {
+            table-layout: fixed;
+            word-break: inherit;
+            }
+            .btn{
+            margin: 20px 0 20px 0;
+            }
+            .container-fluid{
+            width: 100%;
+            padding: 0;
+            }
+            td{
+            padding: 20px 0 10px 0;
+            margin: 0 auto;
+            }
+            .container-fluid{
+            margin: -5px;
+            }
+        
+        }
+        @media only screen and (max-width: 375px) {
+        .home-btn{
+            font-size:12px;
+        }
+        .clear-btn{
+            font-size:12px;
+        }
+        
+        }

@@ -1,0 +1,25 @@
+.sticky-top {
+    top: 80px;      
+}
+a{
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 0px;
+    border: 2px solid black;
+    margin: 2px;
+    color:black;
+    font-weight: 500;
+}
+
+a:hover{
+    color: white;
+    background-color:black;
+}
+
+.nav-link.active{
+    color: white;
+    background-color:black;
+}
+.nav-link{
+    border-radius: 0px;
+}

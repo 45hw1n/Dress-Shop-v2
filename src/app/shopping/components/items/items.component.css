@@ -1,0 +1,49 @@
+.card {
+    margin-bottom: 30px;
+    border-radius : 0px;
+}
+
+.card-footer {
+    padding: 0;
+    background: #fff;
+}
+
+.card-footer button {
+    cursor: pointer;
+    border-radius : 0px;
+}
+
+.card-img-top {
+    height: 300px;
+    width:300px;
+    object-fit: cover;
+    margin: 0 auto;
+    
+}
+
+.card-footer button {
+    cursor: pointer;
+    
+}
+
+@media (max-width: 575px) {
+	.card-img-top{
+        padding-top:15px;
+        height:125px;
+        width:75px;
+    }
+    .card-text{
+        margin: 8px;
+        font-size:15px;
+    }
+    .card-body{
+        padding-right: 5px;
+        /* padding-bottom: 10px; */
+        padding-top:5px;
+    }
+    .card-title{
+        margin-bottom:5px;
+    }   
+    
+    
+}

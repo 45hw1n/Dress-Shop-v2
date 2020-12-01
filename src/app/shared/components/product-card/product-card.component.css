@@ -1,0 +1,28 @@
+    .card {
+        margin-bottom: 30px;
+        border-radius : 0px;
+    }
+    
+    .card-footer {
+        padding: 0;
+        background: #fff;
+    }
+    
+    .card-footer button {
+        cursor: pointer;
+        border-radius : 0px;
+    }
+    
+    .card-img-top {
+        height: 300px;
+        width:300px;
+        object-fit: cover;
+        margin: 0 auto;
+        
+    }
+    
+    .card-footer button {
+        cursor: pointer;
+        
+    }
+

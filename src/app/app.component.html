@@ -1,0 +1,10 @@
+<!-- <app-bs-navbar *ngIf="!router.url.includes('home'); else elseBlock"></app-bs-navbar>
+<ng-template #elseBlock><app-home-nav> </app-home-nav> </ng-template> -->
+
+<app-bs-navbar *ngIf="!router.url.includes('home')"></app-bs-navbar>
+
+<main role="main" class="container-fluid">
+
+  <router-outlet></router-outlet>
+
+</main><!-- /.container -->

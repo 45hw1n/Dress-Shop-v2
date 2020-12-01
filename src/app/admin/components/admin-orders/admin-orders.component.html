@@ -1,0 +1,37 @@
+<div class="container-fluid col-lg-10 mb-5 mt-3">
+  <h3 style="text-align: center;">Manage Orders</h3>
+  <p>
+    <button class="btn btn-primary float-right mb-3" routerLink="/" style="margin-bottom:10px" >Back To Home</button>
+  </p>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Customer</th>
+        <th>Date & Time</th>
+        <!-- <th>Status</th> -->
+        <th></th>
+      </tr>
+    </thead> 
+    <tbody>
+      <tr *ngFor="let order of orders$ | async">
+        <td>{{ order.shipping.name }}</td>
+        <td>{{ order.datePlaced | date:'medium'}} (IST)</td>
+        
+        <!-- <td>
+          <div class="form-group">
+          
+            <select #status="ngModel" [(ngModel)]="order['status']" class="form-control-md drop-down">
+              <option class="text-danger">To Do</option>
+              <option class="text-warning">In Progress</option>
+              <option class="text-success">Completed</option>
+              
+            </select>
+          </div>
+        </td> -->
+        <td>
+          <a [routerLink]="['/admin/orders/' + order.key]">View</a>
+        </td>
+      </tr>
+    </tbody> 
+  </table>
+</div>  

@@ -1,0 +1,18 @@
+<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+    <li class="nav-item">
+      <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true"
+      [class.active]="!category"
+      routerLink="/products"
+      data-dismiss="modal"
+      >All Categories</a>
+    </li>
+    <li class="nav-item"*ngFor="let c of categories$ | async">
+
+      <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false"
+      routerLink="/products" 
+      [queryParams]="{ category: c.key }" 
+      [class.active]="category === c.key"
+      data-dismiss="modal" >
+      {{ c.name }}</a>
+    </li>
+</ul>

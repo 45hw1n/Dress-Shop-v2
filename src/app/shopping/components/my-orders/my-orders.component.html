@@ -1,0 +1,25 @@
+<div class="container-fluid col-lg-10 col-md-12">
+  <h3 style="text-align: center;">Orders</h3>
+  <p>
+    <button routerLink="/" class="btn btn-primary float-right" style="margin-bottom:15px ;">Back to Home</button>
+  </p>
+<table class="table">
+  <thead>
+    <tr>
+      <th>Customer</th>
+      <th>Date</th>
+      <th></th>
+    </tr>
+  </thead> 
+  <tbody>
+    <tr *ngFor="let order of orders$ | async">
+      <td>{{ order.shipping.name }}</td>
+      <td>{{ order.datePlaced | date:'medium'}} (IST)</td>
+      <td>
+        <a [routerLink]="['/my/orders/', order.key]">View</a>
+      </td>
+    </tr>
+  </tbody> 
+</table>
+
+</div>

@@ -1,0 +1,1450 @@
+{
+  "categories" : {
+    "boys" : {
+      "name" : "Boys"
+    },
+    "girls" : {
+      "name" : "Girls"
+    },
+    "men" : {
+      "name" : "Men"
+    },
+    "women" : {
+      "name" : "Women"
+    }
+  },
+  "orders" : {
+    "-MKfHMLcfJGkegxyysZk" : {
+      "datePlaced" : 1603822779104,
+      "items" : [ {
+        "product" : {
+          "imageUrl" : "https://www.dhresource.com/0x0/f2/albu/g9/M01/83/03/rBVaWF0Ao-2AO7pnAAJtpDdL-vw995.jpg",
+          "price" : 250,
+          "size" : "M",
+          "title" : "Mens Tees"
+        },
+        "quantity" : 1,
+        "totalPrice" : 250
+      }, {
+        "product" : {
+          "imageUrl" : "https://5.imimg.com/data5/UR/ER/MY-10139824/19-500x500.jpg",
+          "price" : 800,
+          "size" : "M",
+          "title" : "Jeans Pant"
+        },
+        "quantity" : 1,
+        "totalPrice" : 800
+      } ],
+      "shipping" : {
+        "addressLine1" : "250",
+        "addressLine2" : "LIG COLONY",
+        "city" : "Madurai",
+        "mobileno" : "9080417273",
+        "name" : "Ashwin",
+        "pincode" : "625020"
+      },
+      "totalCost" : 1050,
+      "userId" : "6LluVneRGLcTpQpq4YzXlnJaOOf1"
+    }
+  },
+  "products" : {
+    "-MK_w2rGlRlSxdNxeSP3" : {
+      "category" : "men",
+      "imageUrl" : "https://www.dhresource.com/0x0/f2/albu/g9/M01/83/03/rBVaWF0Ao-2AO7pnAAJtpDdL-vw995.jpg",
+      "price" : 299,
+      "size" : "L",
+      "title" : "Mens Tees"
+    },
+    "-MK_wBjzQmXIBTKO0yxe" : {
+      "category" : "boys",
+      "imageUrl" : "https://i.pinimg.com/236x/a2/f5/d9/a2f5d93d69e6da40268603c97b79c49f--surf-logo-mens-graphic-tees.jpg",
+      "price" : 300,
+      "size" : "S",
+      "title" : "Boys Tees"
+    },
+    "-MK_wLKojzMZI6h0Ngqv" : {
+      "category" : "girls",
+      "imageUrl" : "https://images-na.ssl-images-amazon.com/images/I/81vFJrRxqOL._UL1500_.jpg",
+      "price" : 600,
+      "size" : "M",
+      "title" : "Girls Frock"
+    },
+    "-MK_wWKRcqxfHhbcG4WF" : {
+      "category" : "women",
+      "imageUrl" : "https://images-na.ssl-images-amazon.com/images/I/81DmHhT7EkL._UY550_.jpg",
+      "price" : 500,
+      "size" : "L",
+      "title" : "Women Kurti"
+    },
+    "-MKfHCKKLlZXNTUI_GH3" : {
+      "category" : "men",
+      "imageUrl" : "https://5.imimg.com/data5/UR/ER/MY-10139824/19-500x500.jpg",
+      "price" : 800,
+      "size" : "M",
+      "title" : "Jeans Pant"
+    },
+    "-MKjIqJInbIptvcdT3hP" : {
+      "category" : "men",
+      "imageUrl" : "https://5.imimg.com/data5/SC/LI/GS/SELLER-58401788/mens-slim-fit-jogger-pant-500x500.jpg",
+      "price" : 600,
+      "size" : "M",
+      "title" : "Joggers Fit Tracks"
+    }
+  },
+  "shopping-carts" : {
+    "-MFwCsoIMrqZ3viWTOzd" : {
+      "dateCreated" : 1598738107667
+    },
+    "-MFwCsoo1dw8hAD9qTIB" : {
+      "dateCreated" : 1598738107700,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 50,
+          "quantity" : 4,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MFy-fhmVRxmP1jJre8F" : {
+      "dateCreated" : 1598768200561
+    },
+    "-MFy-fiO_Kut3SXv5USV" : {
+      "dateCreated" : 1598768200601
+    },
+    "-MFy3_sZMJhhUg8Mo_yr" : {
+      "dateCreated" : "Sun Aug 30 2020 12:03:45 GMT+0530 (India Standard Time)"
+    },
+    "-MFy3_tXwqMwqy3j1u_Y" : {
+      "dateCreated" : "Sun Aug 30 2020 12:03:45 GMT+0530 (India Standard Time)"
+    },
+    "-MFyGfJDZABVZwjmWUeD" : {
+      "dateCreated" : 1598772655373
+    },
+    "-MFyGfJiqiwdGNk9FAbi" : {
+      "dateCreated" : 1598772655406
+    },
+    "-MFyLCBR53G-9upY8Whq" : {
+      "dateCreated" : 1598773842715
+    },
+    "-MFyLCBwdTm9gSCyUcLg" : {
+      "dateCreated" : 1598773842748,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 50,
+          "quantity" : 4,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MFyjaz-CTi9BMvqJYNV" : {
+      "dateCreated" : "Sun Aug 30 2020 15:11:41 GMT+0530 (India Standard Time)"
+    },
+    "-MFyjazebHIjwTJiyKPc" : {
+      "dateCreated" : "Sun Aug 30 2020 15:11:41 GMT+0530 (India Standard Time)"
+    },
+    "-MFypvj0viJ_uTc01rO3" : {
+      "dateCreated" : 1598782159808
+    },
+    "-MFypvjSAxA8ha1XiNKW" : {
+      "dateCreated" : 1598782159837
+    },
+    "-MFysms8RQnS4l8nTdbL" : {
+      "dateCreated" : 1598782909960
+    },
+    "-MFysmscCNEYatM-stQf" : {
+      "dateCreated" : 1598782909992
+    },
+    "-MFzAErJRZV5q8oGto94" : {
+      "dateCreated" : 1598787747283
+    },
+    "-MFzAErjy6Tc5WRVHjWV" : {
+      "dateCreated" : 1598787747311
+    },
+    "-MFzUYdxjwC5o3rmadka" : {
+      "dateCreated" : 1598793071228
+    },
+    "-MFzUYebbnB2MHM4Tp9u" : {
+      "dateCreated" : 1598793071271
+    },
+    "-MFztfSnL_-GW2FRvtzr" : {
+      "dateCreated" : 1598799918961
+    },
+    "-MFztfTlsFayrZLJLT4A" : {
+      "dateCreated" : 1598799919025
+    },
+    "-MG-39daxRAlGnbgky7X" : {
+      "dateCreated" : 1598802668133
+    },
+    "-MG-39e7iTgx6hxWqlBS" : {
+      "dateCreated" : 1598802668168
+    },
+    "-MG-Bklj8yqVkH7RJTNj" : {
+      "dateCreated" : 1598804921454
+    },
+    "-MG-BkmADCvYtCE8t_Bf" : {
+      "dateCreated" : 1598804921483
+    },
+    "-MG27vUkelBfZJaXnZFk" : {
+      "dateCreated" : 1598854248431
+    },
+    "-MG27vVN_5ZjGS7RBVi2" : {
+      "dateCreated" : 1598854248472
+    },
+    "-MG3M7vo6weVgRc6gDV9" : {
+      "dateCreated" : 1598874750708
+    },
+    "-MG3M7wIRYfd2Ro19EFa" : {
+      "dateCreated" : 1598874750739
+    },
+    "-MG3NEODfQrc6nt-Y4xI" : {
+      "dateCreated" : 1598875039309
+    },
+    "-MG3NEOe80EnYquMkaBl" : {
+      "dateCreated" : 1598875039338
+    },
+    "-MG3OyYPOUX0HOz2Aqqn" : {
+      "dateCreated" : 1598875494617
+    },
+    "-MG3OyYrSax1Hds-kpW7" : {
+      "dateCreated" : 1598875494647
+    },
+    "-MG4IHA9bwtne2HnPpoa" : {
+      "dateCreated" : 1598890517193
+    },
+    "-MG4IHAaaew9SuVK3hEd" : {
+      "dateCreated" : 1598890517222
+    },
+    "-MG5-aA8q_DAT9i0Ycrb" : {
+      "dateCreated" : 1598902395592
+    },
+    "-MG5-aAXA0hbscLLSR5R" : {
+      "dateCreated" : 1598902395618
+    },
+    "-MG516tZZpqt54FUfRf8" : {
+      "dateCreated" : 1598902795876
+    },
+    "-MG516u2huX1MIgACGUm" : {
+      "dateCreated" : 1598902795906
+    },
+    "-MG6m0cnIzguYVvEXGgb" : {
+      "dateCreated" : 1598932130354
+    },
+    "-MG6m0dGDtHpU_RGNQMO" : {
+      "dateCreated" : 1598932130385
+    },
+    "-MG6vO1FMQ0h_qWbBjTf" : {
+      "dateCreated" : 1598934585487
+    },
+    "-MG6vO1cGSJ5beCwwGQ9" : {
+      "dateCreated" : 1598934585512
+    },
+    "-MG6vm6dpCROeT2r73gY" : {
+      "dateCreated" : 1598934688231
+    },
+    "-MG6vm7_n6HFqu1wZ6AO" : {
+      "dateCreated" : 1598934688292,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://assets.bonappetit.com/photos/5c62e4a3e81bbf522a9579ce/master/pass/milk-bread.jpg",
+          "price" : 30,
+          "quantity" : 1,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MG6vo4rDutY8hBqjGWQ" : {
+      "dateCreated" : 1598934696310
+    },
+    "-MG6vo59Uk5sm7I0badx" : {
+      "dateCreated" : 1598934696330
+    },
+    "-MG6z--VXqTbogxwahM9" : {
+      "dateCreated" : 1598935531550
+    },
+    "-MG6z-0FemwM0j_-QnqA" : {
+      "dateCreated" : 1598935531600
+    },
+    "-MG7-MxJci3McAbbUHsm" : {
+      "dateCreated" : 1598935891794
+    },
+    "-MG7-Mxpr1zwPIqui5fx" : {
+      "dateCreated" : 1598935891829
+    },
+    "-MG7-iPgtzVyzkVduppW" : {
+      "dateCreated" : 1598935983786
+    },
+    "-MG7-iQ_8JIlHPm7m6IT" : {
+      "dateCreated" : 1598935983845,
+      "items" : {
+        "-MFu8an3NdypXLDIPtnX" : {
+          "imageUrl" : "https://images-na.ssl-images-amazon.com/images/I/81VjCuDhHfL._SL1500_.jpg",
+          "price" : 25,
+          "quantity" : 1,
+          "title" : "Milk"
+        }
+      }
+    },
+    "-MG70EyLl3GbUXMDM8a1" : {
+      "dateCreated" : 1598936121237
+    },
+    "-MG70EykTiyrmrS6OEvp" : {
+      "dateCreated" : 1598936121264
+    },
+    "-MG70Z6jIpFPVYXypAK4" : {
+      "dateCreated" : 1598936203758
+    },
+    "-MG70Z7GRnpdrgKBb7MB" : {
+      "dateCreated" : 1598936203793,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 5,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MG71eE1GgH-curNInuT" : {
+      "dateCreated" : 1598936490944
+    },
+    "-MG71eF_fQswnnzD9Bjh" : {
+      "dateCreated" : 1598936491045
+    },
+    "-MG72zwEOe03m-r74XPe" : {
+      "dateCreated" : 1598936841998
+    },
+    "-MG72zwfC4y-iJ1eVBJb" : {
+      "dateCreated" : 1598936842027
+    },
+    "-MG753Pf0L-FrCfatnah" : {
+      "dateCreated" : 1598937384619
+    },
+    "-MG753PrlvqQe4tofKgZ" : {
+      "dateCreated" : 1598937384631
+    },
+    "-MG77uwXJLGh9V85gguH" : {
+      "dateCreated" : 1598938132258
+    },
+    "-MG77uwiR6iqzKu1gwyi" : {
+      "dateCreated" : 1598938132270
+    },
+    "-MG79wIya9aaYzI0D563" : {
+      "dateCreated" : 1598938662141
+    },
+    "-MG79wJL6xciS3BUNla6" : {
+      "dateCreated" : 1598938662166
+    },
+    "-MG7medl_aCvxKgS4VmL" : {
+      "dateCreated" : 1598949075568
+    },
+    "-MG7meeD1RVZad5g9N2w" : {
+      "dateCreated" : 1598949075598,
+      "items" : {
+        "-KrvrgogC3oac5k83Awt" : {
+          "imageUrl" : "https://static.pexels.com/photos/8390/food-wood-tomatoes.jpg",
+          "price" : 25,
+          "quantity" : 3,
+          "title" : "Tomato"
+        }
+      }
+    },
+    "-MG7oBDZPEBTP25LGz5U" : {
+      "dateCreated" : 1598949475231
+    },
+    "-MG7oBF3HBQ--1NR1Cf4" : {
+      "dateCreated" : 1598949475332,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 3,
+          "title" : "Freshly Baked Bread"
+        },
+        "-Krvrt2nkeRw2HCbiGDj" : {
+          "imageUrl" : "https://img1.exportersindia.com/product_images/bc-full/2019/5/6365181/natural-potato-1558155730-4912448.jpeg",
+          "price" : 60,
+          "quantity" : 1,
+          "title" : "Potato"
+        }
+      }
+    },
+    "-MG9ADheR6hih5ESovMD" : {
+      "dateCreated" : 1598972291945
+    },
+    "-MG9ADiD2DVEAUShE6Fu" : {
+      "dateCreated" : 1598972291982
+    },
+    "-MG9JXhxFat9W74Fbabx" : {
+      "dateCreated" : 1598974733180
+    },
+    "-MG9JXiMB6lzQXr3WgwO" : {
+      "dateCreated" : 1598974733207
+    },
+    "-MG9KbkHPCcBZn-KVm9Y" : {
+      "dateCreated" : 1598975015953
+    },
+    "-MG9KbkdxLbrzen5fQHH" : {
+      "dateCreated" : 1598975015977,
+      "items" : {
+        "-KrvuT7GtYfsFvmQfgoj" : {
+          "imageUrl" : "https://static.pexels.com/photos/416607/pexels-photo-416607.jpeg",
+          "price" : 30,
+          "quantity" : 5,
+          "title" : "Baguette Bread"
+        }
+      }
+    },
+    "-MG9UMbpOb5W3SxoIGr2" : {
+      "dateCreated" : 1598977571316
+    },
+    "-MG9UMcBc3tEGFmt5nPl" : {
+      "dateCreated" : 1598977571340
+    },
+    "-MG9UsOdfRMgktGhgBOJ" : {
+      "dateCreated" : 1598977705576
+    },
+    "-MG9UsPIH9qqFCwbHF7t" : {
+      "dateCreated" : 1598977705619
+    },
+    "-MG9VEp_qODHP4T7FSsB" : {
+      "dateCreated" : 1598977801572
+    },
+    "-MG9VEpzJRJKpVl51VPG" : {
+      "dateCreated" : 1598977801599,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 4,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MG9d0rlb9fZ_P_cAy6q" : {
+      "dateCreated" : 1598980103665
+    },
+    "-MG9d0rvx5n5-Typ5gWS" : {
+      "dateCreated" : 1598980103675
+    },
+    "-MG9f6U1CnGVtVyZfCD5" : {
+      "dateCreated" : 1598980650946
+    },
+    "-MG9f6UCotlgPzJgShG5" : {
+      "dateCreated" : 1598980650957
+    },
+    "-MG9ft7ovT64upJF5E5d" : {
+      "dateCreated" : 1598980854322
+    },
+    "-MG9ft9AQCZY1zF2G0IH" : {
+      "dateCreated" : 1598980854411
+    },
+    "-MG9s0AZiUjtxeAefHwr" : {
+      "dateCreated" : 1598984032995
+    },
+    "-MG9s0AykQAJg-dDoSxr" : {
+      "dateCreated" : 1598984033022
+    },
+    "-MG9wmYcuXlGbw8q1o6s" : {
+      "dateCreated" : 1598985283815
+    },
+    "-MG9wmZ5H4oPmWMqtbV6" : {
+      "dateCreated" : 1598985283846,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 1,
+          "title" : "Freshly Baked Bread"
+        },
+        "-KrvrgogC3oac5k83Awt" : {
+          "imageUrl" : "https://static.pexels.com/photos/8390/food-wood-tomatoes.jpg",
+          "price" : 25,
+          "quantity" : 1,
+          "title" : "Tomato"
+        }
+      }
+    },
+    "-MGBhsqky4wUoJuo0q9C" : {
+      "dateCreated" : 1599014931882
+    },
+    "-MGBhsvx_PKz2E0F7pEQ" : {
+      "dateCreated" : 1599014932221
+    },
+    "-MGH3j4_4qrC5qcaYS-E" : {
+      "dateCreated" : 1599104807268
+    },
+    "-MGH3j4uTtqt1B7yQWtk" : {
+      "dateCreated" : 1599104807290
+    },
+    "-MGKKOVq4ZKcLiWMMjbz" : {
+      "dateCreated" : 1599159506997
+    },
+    "-MGKKOWFxzfcc7W874M2" : {
+      "dateCreated" : 1599159507024
+    },
+    "-MGKg28Ws3LbM5ezxLuf" : {
+      "dateCreated" : 1599165444705
+    },
+    "-MGKg29-j1ioZ3Ex0v2q" : {
+      "dateCreated" : 1599165444736
+    },
+    "-MGMXUWoSOH2be4McO3p" : {
+      "dateCreated" : 1599196493939
+    },
+    "-MGMXUXCTf8k6kfXuAQG" : {
+      "dateCreated" : 1599196493965
+    },
+    "-MGNuTfzHnIXhwoExRwE" : {
+      "dateCreated" : 1599219559167
+    },
+    "-MGNuTgNKOYlQx3VLidB" : {
+      "dateCreated" : 1599219559192
+    },
+    "-MGOPyJZR5higw45WrmI" : {
+      "dateCreated" : 1599228077346
+    },
+    "-MGOPyKDV7KHS-hmpqwS" : {
+      "dateCreated" : 1599228077390
+    },
+    "-MGOQcP_Vkrpi7eLm6kR" : {
+      "dateCreated" : 1599228249765
+    },
+    "-MGOQcQ1b0d1zd3GhA8C" : {
+      "dateCreated" : 1599228249794
+    },
+    "-MGP4z6JSV1aY_4YtuYk" : {
+      "dateCreated" : 1599239352786
+    },
+    "-MGP4z6o1hxm_5N4iwx9" : {
+      "dateCreated" : 1599239352820
+    },
+    "-MGP5Lbe95XlplsUxha0" : {
+      "dateCreated" : 1599239449065
+    },
+    "-MGP5Lc3FMpG7cBrGWw_" : {
+      "dateCreated" : 1599239449092
+    },
+    "-MGP9d0w0jC5NHGzevGc" : {
+      "dateCreated" : 1599240573051
+    },
+    "-MGP9d1YY4ygD_8z9A7K" : {
+      "dateCreated" : 1599240573091
+    },
+    "-MGPDilUu-LDtFa8kWng" : {
+      "dateCreated" : 1599241645150
+    },
+    "-MGPDily47mmLXmxeIrN" : {
+      "dateCreated" : 1599241645182
+    },
+    "-MGPYY013Gjok7SKjg9R" : {
+      "dateCreated" : 1599247102017
+    },
+    "-MGPYY0Yt84lv7bErnaE" : {
+      "dateCreated" : 1599247102051
+    },
+    "-MGRe8aS6Rroxv1BIqx4" : {
+      "dateCreated" : 1599282387356
+    },
+    "-MGRe8b-345ZJCVERRzA" : {
+      "dateCreated" : 1599282387392
+    },
+    "-MGSmqMZEPG_b3IDeLTR" : {
+      "dateCreated" : 1599301445091
+    },
+    "-MGSmqN0eKfOx0BgKIa9" : {
+      "dateCreated" : 1599301445121,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 2,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MGSqU3rwLWq2qIso_LZ" : {
+      "dateCreated" : 1599302398262
+    },
+    "-MGSqU4GOWkt2Vd2AzvT" : {
+      "dateCreated" : 1599302398289
+    },
+    "-MGT75-s-DHCO6Ew4UYR" : {
+      "dateCreated" : 1599307014198
+    },
+    "-MGT750ZyBuSrUCm_nxe" : {
+      "dateCreated" : 1599307014244
+    },
+    "-MGU4wxWdzd0BQgNN6D1" : {
+      "dateCreated" : 1599323230048
+    },
+    "-MGU4wxxa4QtGThFhyhC" : {
+      "dateCreated" : 1599323230077
+    },
+    "-MGUcaJ7dH-p82ps-Bpv" : {
+      "dateCreated" : 1599332312327
+    },
+    "-MGUcaJ_AJutOnb7lXzQ" : {
+      "dateCreated" : 1599332312357
+    },
+    "-MGUzQ0q6-8bashDZFAi" : {
+      "dateCreated" : 1599338295413
+    },
+    "-MGUzQ1Aw8ACAcakPuhx" : {
+      "dateCreated" : 1599338295435
+    },
+    "-MGUzmAhtR7SzUrnDNlJ" : {
+      "dateCreated" : 1599338390251
+    },
+    "-MGUzmBorVFDZlMKbb4b" : {
+      "dateCreated" : 1599338390324
+    },
+    "-MGWVrJnghFc07MBybPd" : {
+      "dateCreated" : 1599363839281
+    },
+    "-MGWVrKUyrNlgdu_A2EJ" : {
+      "dateCreated" : 1599363839327
+    },
+    "-MGX-Dj14YQiEfBZOEmn" : {
+      "dateCreated" : 1599372061633
+    },
+    "-MGX-DjSUUhZcT4NyPN6" : {
+      "dateCreated" : 1599372061661,
+      "items" : {
+        "-KrvrgogC3oac5k83Awt" : {
+          "imageUrl" : "https://static.pexels.com/photos/8390/food-wood-tomatoes.jpg",
+          "price" : 25,
+          "quantity" : 2,
+          "title" : "Tomato"
+        }
+      }
+    },
+    "-MGX06w9tgz4Bi5Qclse" : {
+      "dateCreated" : 1599372295945
+    },
+    "-MGX06wsto3CnuZ1XR1C" : {
+      "dateCreated" : 1599372295992,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 2,
+          "title" : "Freshly Baked Bread"
+        },
+        "-KrvrgogC3oac5k83Awt" : {
+          "imageUrl" : "https://static.pexels.com/photos/8390/food-wood-tomatoes.jpg",
+          "price" : 25,
+          "quantity" : 2,
+          "title" : "Tomato"
+        }
+      }
+    },
+    "-MGXDOyI3XsKpKxpALN7" : {
+      "dateCreated" : 1599375777682
+    },
+    "-MGXDOyhn94Jg1FD87vh" : {
+      "dateCreated" : 1599375777709
+    },
+    "-MGXE-rWXXb5GU4zJm0w" : {
+      "dateCreated" : 1599375936991
+    },
+    "-MGXE-sbQkLXy0SkIdYk" : {
+      "dateCreated" : 1599375937063,
+      "items" : {
+        "-KrvsrmX3I1-Bo6eFCdx" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cinnamon-other.jpg",
+          "price" : 20,
+          "quantity" : 1,
+          "title" : "Cinnamon Sticks"
+        },
+        "-KrvtXWZvGv-mr0IFbAA" : {
+          "imageUrl" : "http://maxpixel.freegreatpicture.com/static/photo/1x/Ingredient-Herb-Seasoning-Seeds-Food-Coriander-390015.jpg",
+          "price" : 25,
+          "quantity" : 1,
+          "title" : "Coriander Seeds"
+        }
+      }
+    },
+    "-MGXFrEIZdEAfF0UJ3yD" : {
+      "dateCreated" : 1599376421839
+    },
+    "-MGXFrFx_Yrgq3fsaJs6" : {
+      "dateCreated" : 1599376421949,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 1,
+          "title" : "Freshly Baked Bread"
+        },
+        "-Krvs0ZZBpz5GuM0RfC8" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cauliflowers_-_20051021.jpg/1280px-Cauliflowers_-_20051021.jpg",
+          "price" : 30,
+          "quantity" : 1,
+          "title" : "Cauliflower"
+        }
+      }
+    },
+    "-MGXqBuDEqkPMRMFgktn" : {
+      "dateCreated" : 1599386209933
+    },
+    "-MGXqBv3znabc21tSr8y" : {
+      "dateCreated" : 1599386209988
+    },
+    "-MGXqwLd5bRrGXIHF1xx" : {
+      "dateCreated" : 1599386404264
+    },
+    "-MGXqwM4Y3HiEGlmhSfU" : {
+      "dateCreated" : 1599386404293
+    },
+    "-MGXr66bxCXAvuIvxSxb" : {
+      "dateCreated" : 1599386448357
+    },
+    "-MGXr67Uvq96AshXybSn" : {
+      "dateCreated" : 1599386448415,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 1,
+          "title" : "Freshly Baked Bread"
+        },
+        "-KrvrgogC3oac5k83Awt" : {
+          "imageUrl" : "https://static.pexels.com/photos/8390/food-wood-tomatoes.jpg",
+          "price" : 25,
+          "quantity" : 2,
+          "title" : "Tomato"
+        },
+        "-Krvrt2nkeRw2HCbiGDj" : {
+          "imageUrl" : "https://img1.exportersindia.com/product_images/bc-full/2019/5/6365181/natural-potato-1558155730-4912448.jpeg",
+          "price" : 60,
+          "quantity" : 2,
+          "title" : "Potato"
+        }
+      }
+    },
+    "-MGXsuO-l39wGOERLAht" : {
+      "dateCreated" : 1599386920511
+    },
+    "-MGXsuOMgUop_ejYocyK" : {
+      "dateCreated" : 1599386920535
+    },
+    "-MGXwD7CNNssyOt3zVzP" : {
+      "dateCreated" : 1599387787787
+    },
+    "-MGXwD7yj5pdgT0qEB1u" : {
+      "dateCreated" : 1599387787838,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 1,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MGY6-Qipyc7kbcggAcp" : {
+      "dateCreated" : 1599390615277
+    },
+    "-MGY6-RA58gUlDXZPBK7" : {
+      "dateCreated" : 1599390615307
+    },
+    "-MGYIXwjsON2GJCRf2-Q" : {
+      "dateCreated" : 1599393902378
+    },
+    "-MGYIY0J3uiqzciRmvtQ" : {
+      "dateCreated" : 1599393902675
+    },
+    "-MGYOvJRD5SC8F9lnzxJ" : {
+      "dateCreated" : 1599395575067
+    },
+    "-MGYOvJnZg52sIAk9qVI" : {
+      "dateCreated" : 1599395575091,
+      "items" : {
+        "-MFu8an3NdypXLDIPtnX" : {
+          "imageUrl" : "https://images-na.ssl-images-amazon.com/images/I/81VjCuDhHfL._SL1500_.jpg",
+          "price" : 25,
+          "quantity" : 2,
+          "title" : "Milk"
+        },
+        "-MGPMYH6BOIqVEKc1s2Z" : {
+          "imageUrl" : "https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/09/jam-655x477.jpg",
+          "price" : 50,
+          "quantity" : 2,
+          "title" : "Jam"
+        }
+      }
+    },
+    "-MGYR3iAbinQBfptWU0Y" : {
+      "dateCreated" : 1599396137865
+    },
+    "-MGYR3j0JgkcDuFpcJ5o" : {
+      "dateCreated" : 1599396137921
+    },
+    "-MGYU8nJCqJwSmqzNGC6" : {
+      "dateCreated" : 1599396945106
+    },
+    "-MGYU8oQl-0Cz1Xw6vuB" : {
+      "dateCreated" : 1599396945179,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 1,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MGYUlV_4aZIkmo5qqk7" : {
+      "dateCreated" : 1599397107748
+    },
+    "-MGYUlWMn1PsJI3pWzrl" : {
+      "dateCreated" : 1599397107799
+    },
+    "-MGYWrr3sQ6BO5-pc7o4" : {
+      "dateCreated" : 1599397658051
+    },
+    "-MGYWrrU4F_cHQdoJWWY" : {
+      "dateCreated" : 1599397658079
+    },
+    "-MGYalDzmD_0fIR85bSw" : {
+      "dateCreated" : 1599398941630
+    },
+    "-MGYalEO_6d4MyMyaLqN" : {
+      "dateCreated" : 1599398941657
+    },
+    "-MGYbroShGsOD6n1tq0S" : {
+      "dateCreated" : 1599399230746
+    },
+    "-MGYbrprcSTsJ1TlmF6J" : {
+      "dateCreated" : 1599399230838
+    },
+    "-MGYbth65He0_FF00gCX" : {
+      "dateCreated" : 1599399238470
+    },
+    "-MGYbthTzzNF98Sedqze" : {
+      "dateCreated" : 1599399238492
+    },
+    "-MGYbthhF8LfRwK0t-dL" : {
+      "dateCreated" : 1599399238509
+    },
+    "-MGYbtiBIN4ERclyAsgF" : {
+      "dateCreated" : 1599399238540
+    },
+    "-MGYiGWsfpc9EEv_JmWR" : {
+      "dateCreated" : 1599400908920
+    },
+    "-MGYiGXHMxWEptaBtqp6" : {
+      "dateCreated" : 1599400908946
+    },
+    "-MGYmg5ZKIOkpnq_LCfa" : {
+      "dateCreated" : 1599402066339
+    },
+    "-MGYmg5vuNA-GThwrgqS" : {
+      "dateCreated" : 1599402066363
+    },
+    "-MGZ2ZjRLQdlwqwKrQz2" : {
+      "dateCreated" : 1599406492635
+    },
+    "-MGZ2ZjpB3D2dwqslHtR" : {
+      "dateCreated" : 1599406492661
+    },
+    "-MGZ835NIGNoS6xplfBu" : {
+      "dateCreated" : 1599407931796
+    },
+    "-MGZ8379wcgcrTqbhEw8" : {
+      "dateCreated" : 1599407931914
+    },
+    "-MGZ_VLDus87m3W6kKsi" : {
+      "dateCreated" : 1599415387533
+    },
+    "-MGZ_VLcshf6m0b3Avpk" : {
+      "dateCreated" : 1599415387560,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 1,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MGZftK3cwXSKqF3zzqC" : {
+      "dateCreated" : 1599417062724
+    },
+    "-MGZftKRRky243pNxCVd" : {
+      "dateCreated" : 1599417062748
+    },
+    "-MGZgNuiSZyg_7KQTS76" : {
+      "dateCreated" : 1599417192108
+    },
+    "-MGZgNvel6iVczj4mTCO" : {
+      "dateCreated" : 1599417192170
+    },
+    "-MGZsF8FKzuZj31bJQAf" : {
+      "dateCreated" : 1599420301904
+    },
+    "-MGZsF8V76JmToyyTxBD" : {
+      "dateCreated" : 1599420301920
+    },
+    "-MGb4qqxvfTNEVqbK3d_" : {
+      "dateCreated" : 1599457422780
+    },
+    "-MGb4qrPGQBME8L46xQj" : {
+      "dateCreated" : 1599457422809
+    },
+    "-MGbEUbkSXc0Q3OzJDZ9" : {
+      "dateCreated" : 1599459949039
+    },
+    "-MGbEUc5VfVWo8d3QrPE" : {
+      "dateCreated" : 1599459949062
+    },
+    "-MGc0im-auz4_2y_ClEn" : {
+      "dateCreated" : 1599473118335
+    },
+    "-MGc0imBp3mGZFooBlA3" : {
+      "dateCreated" : 1599473118348
+    },
+    "-MGc1h-nZMwsbpajD6bX" : {
+      "dateCreated" : 1599473373234
+    },
+    "-MGc1h0ENLedTRMxpgGW" : {
+      "dateCreated" : 1599473373263,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 3,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MGcHbooHQP6YBt_s7-L" : {
+      "dateCreated" : 1599477546291
+    },
+    "-MGcHbpR5kdxuukz8M4g" : {
+      "dateCreated" : 1599477546332
+    },
+    "-MGcHeJAkIcm_3rJE-wM" : {
+      "dateCreated" : 1599477556488
+    },
+    "-MGcHeKT6e1Jd8gTKA_e" : {
+      "dateCreated" : 1599477556574,
+      "items" : {
+        "-Krvs7RuXkSiDZvBZmey" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bananas.jpg/1024px-Bananas.jpg",
+          "price" : 15,
+          "quantity" : 1,
+          "title" : "Banana"
+        },
+        "-KrvsKZbI_mpo3hJg7G7" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg",
+          "price" : 60,
+          "quantity" : 1,
+          "title" : "Orange"
+        },
+        "-KrvsRNOg-ftEUM3Te-F" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+          "price" : 80,
+          "quantity" : 1,
+          "title" : "Apple"
+        },
+        "-Krvs_CiDXdiZ3yd0PUp" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/3/36/Kyoho-grape.jpg",
+          "price" : 45,
+          "quantity" : 1,
+          "title" : "Grape"
+        },
+        "-KrvuH_bkBBZDW0NCwfl" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/e/e1/Strawberries.jpg",
+          "price" : 60,
+          "quantity" : 1,
+          "title" : "Strawberry"
+        }
+      }
+    },
+    "-MGcKUs2cj1MTk1RNSIz" : {
+      "dateCreated" : 1599478300161
+    },
+    "-MGcKUst8VXu42vVkI9d" : {
+      "dateCreated" : 1599478300217,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 2,
+          "title" : "Freshly Baked Bread"
+        },
+        "-Krvtvc_uQyh6dzI-J3R" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fabrication_du_lavash_%C3%A0_Noravank_%286%29.jpg/1280px-Fabrication_du_lavash_%C3%A0_Noravank_%286%29.jpg",
+          "price" : 25,
+          "quantity" : 1,
+          "title" : "Lavash Bread"
+        }
+      }
+    },
+    "-MGcMROtIIIVzMzbWPS1" : {
+      "dateCreated" : 1599478810231
+    },
+    "-MGcMRQ6xUr6JJQYuKiB" : {
+      "dateCreated" : 1599478810311
+    },
+    "-MGcMo9XKeLQJ9UopExK" : {
+      "dateCreated" : 1599478907552
+    },
+    "-MGcMoAygewqpn5yWUhR" : {
+      "dateCreated" : 1599478907645,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 1,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MGcX3ooId0gB8MHnkbc" : {
+      "dateCreated" : 1599481597234
+    },
+    "-MGcX3ptnAloKWPqVXpm" : {
+      "dateCreated" : 1599481597304,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 1,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MGcx1N2-89xHBBYHqvc" : {
+      "dateCreated" : 1599488665087
+    },
+    "-MGcx1QIPad8BmYoooqE" : {
+      "dateCreated" : 1599488665299
+    },
+    "-MGdQdOkFzSGJ40LD1Q-" : {
+      "dateCreated" : 1599496689263
+    },
+    "-MGdQdPJcps3we570OzN" : {
+      "dateCreated" : 1599496689300
+    },
+    "-MGhha_2HmsjtECgpfZp" : {
+      "dateCreated" : 1599568505153
+    },
+    "-MGhhaaOvIMMuwHpi_lZ" : {
+      "dateCreated" : 1599568505241
+    },
+    "-MGluzPhD9ejlqRBlk7q" : {
+      "dateCreated" : 1599639123628
+    },
+    "-MGluzQ7rvZjcXy6XYgN" : {
+      "dateCreated" : 1599639123656
+    },
+    "-MGndDzDm28vqQJc9KvK" : {
+      "dateCreated" : 1599668023244
+    },
+    "-MGndDzqt7UTAHq9coNi" : {
+      "dateCreated" : 1599668023286
+    },
+    "-MGnuUoanNeEHWMJe87s" : {
+      "dateCreated" : 1599672548646
+    },
+    "-MGnuUp7KhskW8dmzTL9" : {
+      "dateCreated" : 1599672548680
+    },
+    "-MGnvoIhilW2aLrXzxC1" : {
+      "dateCreated" : 1599672894700
+    },
+    "-MGnvoJ9gyn32uqrrpe3" : {
+      "dateCreated" : 1599672894730
+    },
+    "-MGo2PZnxcgL8cjNepe4" : {
+      "dateCreated" : 1599674886450
+    },
+    "-MGo2P_CbEzkaCc-w1Df" : {
+      "dateCreated" : 1599674886477
+    },
+    "-MGo76EA-xZiQuiyzRHN" : {
+      "dateCreated" : 1599676117962
+    },
+    "-MGo76EV1riuk6Y1qlSA" : {
+      "dateCreated" : 1599676117984
+    },
+    "-MGrRiprgyW15clAOlu6" : {
+      "dateCreated" : 1599731854710
+    },
+    "-MGrRiqJt_6As27l5V-O" : {
+      "dateCreated" : 1599731854740,
+      "items" : {
+        "-KrrIkDT19XhPgWo0T0A" : {
+          "imageUrl" : "https://static.pexels.com/photos/2434/bread-food-healthy-breakfast.jpg",
+          "price" : 80,
+          "quantity" : 2,
+          "title" : "Freshly Baked Bread"
+        }
+      }
+    },
+    "-MGrXqjrKiEAnfoM1KW3" : {
+      "dateCreated" : 1599733459958
+    },
+    "-MGrXqkI0LcGZqlUKUAb" : {
+      "dateCreated" : 1599733459987
+    },
+    "-MGruIvZytQaLu76OnI_" : {
+      "dateCreated" : 1599739608803
+    },
+    "-MGruIvwQWrwF8Ea-NBK" : {
+      "dateCreated" : 1599739608828
+    },
+    "-MGt9Fcmk8xD9agJD2Wu" : {
+      "dateCreated" : 1599760566832
+    },
+    "-MGt9Fnl5huixzn7oQgy" : {
+      "dateCreated" : 1599760567536
+    },
+    "-MGvZ4HWqK6x0MZqgK_J" : {
+      "dateCreated" : 1599800890528
+    },
+    "-MGvZ4I9EUT2B_7t1mlr" : {
+      "dateCreated" : 1599800890570
+    },
+    "-MGw4IV8MY1eTAdLW0sQ" : {
+      "dateCreated" : 1599809599492
+    },
+    "-MGw4IXK5LdfQJTB-3GV" : {
+      "dateCreated" : 1599809599637
+    },
+    "-MGwWqqOUppIXnE4Io6Q" : {
+      "dateCreated" : 1599817084312
+    },
+    "-MGwWqqpDwVFij_LO7SS" : {
+      "dateCreated" : 1599817084341
+    },
+    "-MGwXkQnvhYGQ3aNZaHs" : {
+      "dateCreated" : 1599817320179
+    },
+    "-MGwXkRAnBG2r8bkwieP" : {
+      "dateCreated" : 1599817320203
+    },
+    "-MGxrPpSpkVznG9ZWhT4" : {
+      "dateCreated" : 1599839513948
+    },
+    "-MGxrPpwIUiww8e1MdP_" : {
+      "dateCreated" : 1599839513980
+    },
+    "-MGy9zhbtP2vJlgFxdBG" : {
+      "dateCreated" : 1599844645734
+    },
+    "-MGy9zi3D3i-BbXtV_wD" : {
+      "dateCreated" : 1599844645763
+    },
+    "-MGyB4KulP_qE94JrQi-" : {
+      "dateCreated" : 1599844930936
+    },
+    "-MGyB4N5U5rvnLmBtN-M" : {
+      "dateCreated" : 1599844931078
+    },
+    "-MGyId3mXsMwf9p4fJB7" : {
+      "dateCreated" : 1599846912304
+    },
+    "-MGyId4_CJ-pC67_cmZv" : {
+      "dateCreated" : 1599846912357
+    },
+    "-MH-_o7aHkWTvDZmvr7T" : {
+      "dateCreated" : 1599885230630
+    },
+    "-MH-_o8-CHIVEfJRlx4l" : {
+      "dateCreated" : 1599885230656,
+      "items" : {
+        "-MGPMYH6BOIqVEKc1s2Z" : {
+          "imageUrl" : "https://navbharattimes.indiatimes.com/hindi-recipes/wp-content/uploads/sites/2/2018/09/jam-655x477.jpg",
+          "price" : 50,
+          "quantity" : 2,
+          "title" : "Jam"
+        }
+      }
+    },
+    "-MHAMOGqFOHGkBO5EbDl" : {
+      "dateCreated" : 1600065999988
+    },
+    "-MHAMOHz9z83Nua9whSr" : {
+      "dateCreated" : 1600066000063
+    },
+    "-MHF61IRb6_Z1w_5is7U" : {
+      "dateCreated" : 1600145597659
+    },
+    "-MHF61Iu1tjn0Z1ZqId0" : {
+      "dateCreated" : 1600145597690
+    },
+    "-MHFMRYTDLEe4w24Ymh7" : {
+      "dateCreated" : 1600149899485
+    },
+    "-MHFMRYxoGbiA08UILB7" : {
+      "dateCreated" : 1600149899517
+    },
+    "-MHFOBH5uwPLLgr5B2Kb" : {
+      "dateCreated" : 1600150357125
+    },
+    "-MHFOBHqfmgckp10aUqg" : {
+      "dateCreated" : 1600150357173
+    },
+    "-MHFOCUkZl-gKHoYmfXm" : {
+      "dateCreated" : 1600150362094
+    },
+    "-MHFOCViuHHRgLpq1GJj" : {
+      "dateCreated" : 1600150362158
+    },
+    "-MHFOyQ6BjRc329CK1Ty" : {
+      "dateCreated" : 1600150562502
+    },
+    "-MHFOyQtjR5Ut7uj6MDR" : {
+      "dateCreated" : 1600150562553
+    },
+    "-MHGTYSl2QEJ6-4qmH7W" : {
+      "dateCreated" : 1600168540016
+    },
+    "-MHGTYTR6zNkeTBdcNSR" : {
+      "dateCreated" : 1600168540060
+    },
+    "-MHLqJyRlxPAmqi8COWF" : {
+      "dateCreated" : 1600258658203
+    },
+    "-MHLqJz5dQ4DC3uYaZvH" : {
+      "dateCreated" : 1600258658246
+    },
+    "-MHM4vwugDh_Y0z_9OLi" : {
+      "dateCreated" : 1600262750008
+    },
+    "-MHM4vyHtfd0d4CbiA9q" : {
+      "dateCreated" : 1600262750098
+    },
+    "-MHSIFdbDU20q8JeCczI" : {
+      "dateCreated" : 1600366905959
+    },
+    "-MHSIFdylYjBHHfNjQAN" : {
+      "dateCreated" : 1600366905982
+    },
+    "-MHSIIeqiEoyO4yGt7W5" : {
+      "dateCreated" : 1600366918316
+    },
+    "-MHSIIizTduPSQtHE2_h" : {
+      "dateCreated" : 1600366918590,
+      "items" : {
+        "-KrvrgogC3oac5k83Awt" : {
+          "imageUrl" : "https://static.pexels.com/photos/8390/food-wood-tomatoes.jpg",
+          "price" : 25,
+          "quantity" : 2,
+          "title" : "Tomato"
+        }
+      }
+    },
+    "-MHSL-knxOP5UF0AOEk7" : {
+      "dateCreated" : 1600367627314
+    },
+    "-MHSL-mjbCjNretK7LoP" : {
+      "dateCreated" : 1600367627439
+    },
+    "-MHSL1r9ida6pt9eJCtQ" : {
+      "dateCreated" : 1600367636043
+    },
+    "-MHSL1rDsRtRv7CfC786" : {
+      "dateCreated" : 1600367636048
+    },
+    "-MHSL1rHFCnpURELU4fE" : {
+      "dateCreated" : 1600367636052,
+      "items" : {
+        "-KrvrgogC3oac5k83Awt" : {
+          "imageUrl" : "https://static.pexels.com/photos/8390/food-wood-tomatoes.jpg",
+          "price" : 25,
+          "quantity" : 1,
+          "title" : "Tomato"
+        },
+        "-Krvrt2nkeRw2HCbiGDj" : {
+          "imageUrl" : "https://img1.exportersindia.com/product_images/bc-full/2019/5/6365181/natural-potato-1558155730-4912448.jpeg",
+          "price" : 60,
+          "quantity" : 1,
+          "title" : "Potato"
+        }
+      }
+    },
+    "-MHpC_zSEZ2vP73qqTSl" : {
+      "dateCreated" : 1600768073690
+    },
+    "-MHtLbHaiAU8RQlXlGxh" : {
+      "dateCreated" : 1600837547169
+    },
+    "-MHtLbKEOAXx_LlNvlUr" : {
+      "dateCreated" : 1600837547342
+    },
+    "-MISpX_1tGOEtg3cBnrV" : {
+      "dateCreated" : 1601449634110
+    },
+    "-MISpXb_Z-e3Nb-fWrkG" : {
+      "dateCreated" : 1601449634277
+    },
+    "-MJCuRgjRnEsFzFYE_sB" : {
+      "dateCreated" : 1602256227117
+    },
+    "-MJCuRhsp7t78K4mjxH-" : {
+      "dateCreated" : 1602256227192
+    },
+    "-MJD-DiuJbM6jmBYKPRX" : {
+      "dateCreated" : 1602257742776
+    },
+    "-MJD-Dm3fY_fNAwY6Mca" : {
+      "dateCreated" : 1602257742980
+    },
+    "-MJDT0Qi82f9w9qPF2bW" : {
+      "dateCreated" : 1602265552615
+    },
+    "-MJDT0Ta4BSMyFT9Ia7h" : {
+      "dateCreated" : 1602265552806,
+      "items" : {
+        "-Krvrt2nkeRw2HCbiGDj" : {
+          "imageUrl" : "https://img1.exportersindia.com/product_images/bc-full/2019/5/6365181/natural-potato-1558155730-4912448.jpeg",
+          "price" : 60,
+          "quantity" : 1,
+          "title" : "Potato"
+        },
+        "-Krvs0ZZBpz5GuM0RfC8" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cauliflowers_-_20051021.jpg/1280px-Cauliflowers_-_20051021.jpg",
+          "price" : 30,
+          "quantity" : 2,
+          "title" : "Cauliflower"
+        },
+        "-Krvs7RuXkSiDZvBZmey" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bananas.jpg/1024px-Bananas.jpg",
+          "price" : 15,
+          "quantity" : 1,
+          "title" : "Banana"
+        },
+        "-KrvsKZbI_mpo3hJg7G7" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg",
+          "price" : 60,
+          "quantity" : 1,
+          "title" : "Orange"
+        },
+        "-KrvsRNOg-ftEUM3Te-F" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+          "price" : 80,
+          "quantity" : 1,
+          "title" : "Apple"
+        },
+        "-Krvs_CiDXdiZ3yd0PUp" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/3/36/Kyoho-grape.jpg",
+          "price" : 45,
+          "quantity" : 1,
+          "title" : "Grape"
+        },
+        "-KrvsrmX3I1-Bo6eFCdx" : {
+          "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cinnamon-other.jpg",
+          "price" : 20,
+          "quantity" : 1,
+          "title" : "Cinnamon Sticks"
+        }
+      }
+    },
+    "-MK4VovGGY2JY0BCv8QY" : {
+      "dateCreated" : 1603189034704
+    },
+    "-MK4VovzHP1PqbCVjdKG" : {
+      "dateCreated" : 1603189034751
+    },
+    "-MKJ9ZjjIL5V6WBugmpU" : {
+      "dateCreated" : 1603434859498
+    },
+    "-MKJ9ZmO2JIrG_0V8G-S" : {
+      "dateCreated" : 1603434859673
+    },
+    "-MKZMCBVKkvAbWbEus1m" : {
+      "dateCreated" : 1603706606365
+    },
+    "-MKZMCCnOxDa1aeA47Sw" : {
+      "dateCreated" : 1603706606451
+    },
+    "-MKf-W22ujmVWeNnbvtM" : {
+      "dateCreated" : 1603818098882
+    },
+    "-MKf-W2Y5EEzdkBtAUhP" : {
+      "dateCreated" : 1603818098915
+    },
+    "-MKfQjZRN0nwfI4D4YGn" : {
+      "dateCreated" : 1603825236250
+    },
+    "-MKfQj_N_jWlFZB0rmq1" : {
+      "dateCreated" : 1603825236311
+    },
+    "-MKfRJOX5T2jVfI-l0Bx" : {
+      "dateCreated" : 1603825387104
+    },
+    "-MKfRJPUDOxCei0xT1RB" : {
+      "dateCreated" : 1603825387167
+    },
+    "-MKhO7ylE2RchmOK-hR_" : {
+      "dateCreated" : 1603858108336
+    },
+    "-MKhO7zAmc7eX7EvLq2r" : {
+      "dateCreated" : 1603858108363,
+      "items" : {
+        "-MK_wBjzQmXIBTKO0yxe" : {
+          "imageUrl" : "https://i.pinimg.com/236x/a2/f5/d9/a2f5d93d69e6da40268603c97b79c49f--surf-logo-mens-graphic-tees.jpg",
+          "price" : 300,
+          "quantity" : 1,
+          "size" : "S",
+          "title" : "Boys Tees"
+        }
+      }
+    },
+    "-MKjis4RJl0kjJtvGiHn" : {
+      "dateCreated" : 1603897360731
+    },
+    "-MKjnik09bx2zC3YMbMB" : {
+      "dateCreated" : 1603898633216
+    },
+    "-MKjnjLZTIT9SW6a-zh-" : {
+      "dateCreated" : 1603898635679
+    }
+  },
+  "size" : {
+    "L" : {
+      "name" : "L"
+    },
+    "M" : {
+      "name" : "M"
+    },
+    "S" : {
+      "name" : "S"
+    },
+    "XS" : {
+      "name" : "XS"
+    }
+  },
+  "status" : {
+    "Completed" : {
+      "name" : "Completed"
+    },
+    "In Progress" : {
+      "name" : "In Progress"
+    },
+    "To Be Delivered" : {
+      "name" : "To Be Delivered"
+    },
+    "To Do" : {
+      "name" : "To Do"
+    }
+  },
+  "users" : {
+    "6LluVneRGLcTpQpq4YzXlnJaOOf1" : {
+      "email" : "ashwin.sundar.04@gmail.com",
+      "isAdmin" : true,
+      "name" : "Ashwin Sundar"
+    },
+    "GHG1AX3UgfNsxwY6jarikpkxvYk1" : {
+      "email" : "vijiharishv96@gmail.com",
+      "isAdmin" : true,
+      "name" : "Harish Vijayakumar"
+    }
+  }
+}
